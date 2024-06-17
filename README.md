@@ -19,7 +19,7 @@
 #### 🔹Poderá melhor analisar o funcionamento, de maneira geral, de cada propriedade e valor inserido e tirar conclusões com base no funcionamento para o usuário final.
 
 
-###  Confira o projeto no Figma:
+###  Confira o projeto no <a href="https://www.figma.com/design/Y4w6f4Ru73WcZ8RKMvgDwi/Challenge-Front-end-Portf%C3%B3lio-(Personal)?node-id=166-1670&t=GuywEZTr2QNepAUm-1" target="_blank">Figma</a>:
 ---
 ### No figma você poderá visualizar o projeto inicial e a disposição de cada informação:
 #### 🔹É necessário se atentar que este projeto foi um desafio ONE, e no Figma nem todos os layouts estarão atualizando para o modelo personalizada por mim, contudo o layout principal para resolução de 1440px está totalmente atualizado e com base neste os subsequêntes foram modificados diretamente no código, em vez do figma.
