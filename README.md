@@ -5,7 +5,7 @@
      <img width="600" heigth="600" src="https://compliancesolucoes.com.br/wp-content/uploads/2022/11/ONE_logo_rgb.png">
 </p>
 
-###  Desafio do Portfólio:
+###  Obrigado pela visita!
 ---
 #### 🔹Se você gostou desse projeto, pense em marca-lo com uma ⭐
 #### 🔹Você pode utilizar os códigos aqui inseridos como referência para guia  📚
